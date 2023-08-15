@@ -3,6 +3,10 @@
 # Directory
 ````
  \api
+    \loader
+    \src
+        \models
+        \routes
  \client
     \public
     \src
